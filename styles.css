@@ -1,0 +1,13 @@
+body{
+    /* background-image: linear-gradient(to left, white ,grey); */
+    background-image: radial-gradient(circle,grey,white);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30 ;
+}
+form input[type="submit"]{
+    background-color: tomato;
+}
+.nowrap{
+    white-space: nowrap;
+}
